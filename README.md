@@ -2,7 +2,7 @@
 Scripts for the interrogation of multiple QA Systems on the Unica University network. Tested on Ubuntu WSL.
 
 Install the requirements with
-```pip install requirements.txt```
+```pip install -r requirements.txt```
 before running the script (you need to have pip installed).
 
 Usage: ```python3 metaqa.py system_name data_source language question```
